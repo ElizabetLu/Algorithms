@@ -2,7 +2,7 @@ package Algorithms.Sort;
 
 import java.util.Arrays;
 
-public class Bubble_Sort{
+public class Bubble_Sort{ //sort
     public static void main(String[] args) {
         int [] array = {5,7,9,1,3,4,5,7,2,2,1,2,7,32,12};
         sort(array);
